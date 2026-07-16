@@ -1,12 +1,12 @@
 # Quality-control report
 
-**Canonical papers:** 7<br>
-**Total PDF pages:** 75<br>
+**Canonical papers:** 8<br>
+**Total PDF pages:** 83<br>
 **Release date:** 16 July 2026
 
 ## PDF checks
 
-- All seven PDFs open successfully, are unencrypted, contain extractable text, and have no XFA form content.
+- All eight PDFs open successfully, are unencrypted, contain extractable text, and have no XFA form content.
 - All fonts reported by `pdffonts` are embedded; some are deliberately not subset because they originate in vector figures.
 - Both Poppler and PDFium rendered every page. Side-by-side review found no renderer-specific missing content, clipping, broken glyphs, or legacy-brand residue.
 - Covers, first manuscript pages, figures, disclaimers, references, and final-page footers were inspected page by page.
@@ -27,6 +27,7 @@
 - MF-MATH-2026-05: source disclaimer match=True; PDF phrase check=True; rebuild changed pages=0.
 - MF-MATH-2026-06: source disclaimer match=True; PDF phrase check=True; rebuild changed pages=0.
 - MF-MATH-2026-08: source disclaimer match=True; PDF phrase check=True; rebuild changed pages=0.
+- MF-MATH-2026-09: source disclaimer match=True; PDF phrase check=True; rebuild changed pages=0.
 
 ## Scope limitation
 
@@ -34,7 +35,7 @@ These checks establish release integrity and reproducibility of the packaged fil
 
 ## Repository integration verification
 
-- All seven canonical paper-level checksum files validate their release PDFs, cover images, and source packages.
+- All eight canonical paper-level checksum files validate their release PDFs, cover images, and source packages.
 - All canonical PDFs open successfully, are unencrypted, and match the page counts recorded in `CATALOG.md` and `CATALOG.json`.
 - All canonical and superseded source ZIP files pass archive-integrity testing.
 - Local Markdown links resolve, `CATALOG.json` parses as JSON, and `CITATION.cff` parses as YAML.

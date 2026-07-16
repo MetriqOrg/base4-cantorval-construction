@@ -11,6 +11,7 @@ The canonical 2026 mathematics series in this archive is:
 - MF-MATH-2026-05, Version 1.1
 - MF-MATH-2026-06, Version 2.1
 - MF-MATH-2026-08, Version 1.1
+- MF-MATH-2026-09, Version 1.0
 
 There is no current canonical MF-MATH-2026-07 release.
 

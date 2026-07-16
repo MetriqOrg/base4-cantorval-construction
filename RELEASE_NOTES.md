@@ -1,4 +1,11 @@
-# Release notes - Archive Version 1.0
+# Release notes - Archive Version 1.1
+
+## Version 1.1 addition
+
+- Added MF-MATH-2026-09, Version 1.0: *A Bessel-Factorization Proof of Mathar's Recurrence for Type-ace Lattice Walks*.
+- Included the canonical eight-page PDF, 300-dpi cover, complete source/reproducibility package, and repository-level checksums.
+- Reproduced exact coefficient generation, the conjectured and proved recurrences through `n=80`, and the Ore-operator factorization.
+- Recorded the work as a candidate proof pending independent specialist and publication-priority review.
 
 ## Preserved provenance
 
@@ -8,7 +15,7 @@
 
 ## Canonicalized
 
-- Established seven canonical papers: MF-MATH-2026-01 through -06 and -08.
+- Archive Version 1.0 established seven canonical papers: MF-MATH-2026-01 through -06 and -08.
 - Preserved the latest audited mathematical revisions: 01 v1.2, 02 v1.2,
   03 v1.3, 04 v1.1, 05 v1.1, 06 v2.1, and 08 v1.1.
 - Consolidated the two duplicate seven-atom cardinal-range drafts into

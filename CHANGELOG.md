@@ -6,6 +6,18 @@ All notable repository-level changes are recorded here. Paper-specific mathemati
 
 No unreleased repository-level changes.
 
+## [2.1.0] - 2026-07-16
+
+### Added
+- MF-MATH-2026-09, Version 1.0, with its canonical PDF, cover, source/reproducibility package, and checksums.
+- Exact verification of the Type-ace lattice-walk coefficients, both recurrences through `n=80`, and the Ore-operator factorization.
+
+### Changed
+- Advanced the mathematics archive to Version 1.1 and added MF-MATH-2026-09 to the catalog, research-status register, citation metadata, release notes, and quality-control report.
+
+### Preserved
+- MF-MATH-2026-01 retains its original Version 1.0 publication date of 15 July 2026 and its preserved tagged and superseded-release records.
+
 ## [2.0.0] - 2026-07-16
 
 ### Added

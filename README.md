@@ -38,6 +38,7 @@ Generative artificial intelligence and other computational systems may be used a
 | **MF-MATH-2026-05** | 1.1 | Sharpness of the Exponential Constant in a Sumset Criterion for Fast Achievement Sets | [Paper and source](Papers/MF-MATH-2026-05/) |
 | **MF-MATH-2026-06** | 2.1 | Finite Certificates for Three Unresolved Cardinal-Function Ranges | [Paper and source](Papers/MF-MATH-2026-06/) |
 | **MF-MATH-2026-08** | 1.1 | Endpoint Walks Evaluate the Complete Homogeneous Symmetric Norms of Path Graphs | [Paper and source](Papers/MF-MATH-2026-08/) |
+| **MF-MATH-2026-09** | 1.0 | A Bessel-Factorization Proof of Mathar's Recurrence for Type-ace Lattice Walks | [Paper and source](Papers/MF-MATH-2026-09/) |
 
 The identifier **MF-MATH-2026-07** is intentionally not assigned to a current standalone paper. Earlier working material was consolidated into MF-MATH-2026-06. See [`IDENTIFIER_AND_SUPERSESSION_RECORD.md`](IDENTIFIER_AND_SUPERSESSION_RECORD.md).
 

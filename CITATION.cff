@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the specific paper and version you used. This repository-level citation identifies the Metriq PRISM Laboratory research archive."
 title: "Metriq PRISM Laboratory Mathematics Research Archive"
 type: dataset
-version: "2.0.0"
+version: "2.1.0"
 date-released: "2026-07-16"
 authors:
   - name: "Metriq PRISM Laboratory"
@@ -18,4 +18,7 @@ keywords:
   - Cantorvals
   - spectral graph theory
   - algebraic combinatorics
+  - lattice walks
+  - Bessel functions
+  - D-finite sequences
   - reproducible research

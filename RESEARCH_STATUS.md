@@ -11,6 +11,7 @@ This file records the public review state of canonical Metriq PRISM Laboratory m
 | MF-MATH-2026-05 | 1.1 | Literal-formulation argument checked internally | Author-intent confirmation and independent review outstanding | Candidate result |
 | MF-MATH-2026-06 | 2.1 | Certificates checked by exact polynomial multiplication and enumeration | Novelty and interpretation review outstanding | Candidate result |
 | MF-MATH-2026-08 | 1.1 | Exact consistency checks completed across stated parameter range | Independent specialist review outstanding | Candidate result |
+| MF-MATH-2026-09 | 1.0 | Coefficients, recurrences, and Ore factorization checked exactly through n=80 | Independent specialist and priority review outstanding | Candidate proof |
 
 ## Meaning of terms
 
