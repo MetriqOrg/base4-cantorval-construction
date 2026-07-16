@@ -1,0 +1,63 @@
+name: Mathematical proof review
+description: Report a possible gap, invalid inference, missing hypothesis, or independent verification.
+title: "[Proof Review] "
+labels:
+  - mathematical-review
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper identifier and version
+      placeholder: "MF-MATH-2026-01 v1.2"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Exact location
+      description: Give the theorem, lemma, equation, section, and page where possible.
+      placeholder: "Theorem 4.2, page 7, second paragraph"
+    validations:
+      required: true
+  - type: dropdown
+    id: review_type
+    attributes:
+      label: Review type
+      options:
+        - Possible mathematical error
+        - Missing hypothesis
+        - Counterexample
+        - Independent proof verification
+        - Computational reproduction
+        - Prior art or equivalent earlier result
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Claim under review
+      description: State the precise claim or step.
+    validations:
+      required: true
+  - type: textarea
+    id: analysis
+    attributes:
+      label: Analysis
+      description: Provide a complete, independently checkable explanation.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence, computation, or references
+      description: Include code, exact output, references, or a minimal counterexample where applicable.
+  - type: checkboxes
+    id: declarations
+    attributes:
+      label: Declarations
+      options:
+        - label: I have identified the exact paper version reviewed.
+          required: true
+        - label: I understand that a successful build alone does not establish mathematical correctness.
+          required: true

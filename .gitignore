@@ -1,0 +1,45 @@
+# LuaLaTeX / TeX build products
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Temporary and generated directories
+build/
+_build/
+dist/
+tmp/
+temp/
+.cache/
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Local environments
+.env
+.env.*
+.venv/
+venv/
+
+# Keep canonical PDFs and packaged source archives tracked.
