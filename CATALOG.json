@@ -1,0 +1,75 @@
+{
+  "publisher": "Metriq PRISM Laboratory",
+  "owner": "Metriq Foundation, Inc.",
+  "release": "1.0",
+  "repository_release": "2.0.0",
+  "date": "2026-07-16",
+  "papers": [
+    {
+      "identifier": "MF-MATH-2026-01",
+      "version": "1.2",
+      "title": "An Explicit Cantorval Achievement Set with Convergent Consecutive-Term Ratio",
+      "date": "2026-07-16",
+      "original_publication_date": "2026-07-15",
+      "original_version": "1.0",
+      "original_release_tag": "v1.0.0",
+      "pages": 9,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-01"
+    },
+    {
+      "identifier": "MF-MATH-2026-02",
+      "version": "1.2",
+      "title": "An Achievable Cantorval with Full-Dimensional Boundary",
+      "date": "2026-07-16",
+      "pages": 12,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-02"
+    },
+    {
+      "identifier": "MF-MATH-2026-03",
+      "version": "1.3",
+      "title": "Every Infinite Achievement Set Is a Sum of Two Achievement Sets of Hausdorff Dimension Zero",
+      "date": "2026-07-16",
+      "pages": 12,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-03"
+    },
+    {
+      "identifier": "MF-MATH-2026-04",
+      "version": "1.1",
+      "title": "An Achievable Cantorval with Zero-Dimensional Boundary",
+      "date": "2026-07-16",
+      "pages": 12,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-04"
+    },
+    {
+      "identifier": "MF-MATH-2026-05",
+      "version": "1.1",
+      "title": "Sharpness of the Exponential Constant in a Sumset Criterion for Fast Achievement Sets",
+      "date": "2026-07-16",
+      "pages": 9,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-05"
+    },
+    {
+      "identifier": "MF-MATH-2026-06",
+      "version": "2.1",
+      "title": "Finite Certificates for Three Unresolved Cardinal-Function Ranges",
+      "date": "2026-07-16",
+      "pages": 10,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-06"
+    },
+    {
+      "identifier": "MF-MATH-2026-08",
+      "version": "1.1",
+      "title": "Endpoint Walks Evaluate the Complete Homogeneous Symmetric Norms of Path Graphs",
+      "date": "2026-07-16",
+      "pages": 11,
+      "status": "candidate-preprint-not-peer-reviewed",
+      "folder": "Papers/MF-MATH-2026-08"
+    }
+  ]
+}

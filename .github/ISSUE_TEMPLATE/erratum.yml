@@ -1,0 +1,42 @@
+name: Erratum or publication correction
+description: Report a typographical, bibliographic, metadata, attribution, or non-substantive publication error.
+title: "[Erratum] "
+labels:
+  - erratum
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper identifier and version
+      placeholder: "MF-MATH-2026-08 v1.1"
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Exact location
+      placeholder: "Page 4, Equation (3.7)"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text or metadata
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+    validations:
+      required: true
+  - type: dropdown
+    id: effect
+    attributes:
+      label: Does this affect a mathematical conclusion?
+      options:
+        - "No"
+        - "Possibly"
+        - "Yes"
+    validations:
+      required: true
